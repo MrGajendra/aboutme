@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding-left: 4px;
+    padding-right: 4px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+    background-color: black;
+   
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+    color: rgb(252, 252, 252);
+   
+}
+/*  about me*/
+#main-content{
+    color: rgb(242, 255, 0);}
+
+#about{
+    padding-bottom: 9px;
+}
+#head{
+    padding-top: 20px;
+}
+
+#para{
+    color: aliceblue;
+}
+
+/* Technical skill*/
+#tech{
+    color: rgb(255, 255, 255);
+}
+
+#sll{
+    color: yellow;
+}
+
+/* edu*/
+#edu{
+    color: aliceblue;
+}
+#eduh{
+    color: yellow;
+}
+/* sm*/
+
+#sm{
+    color:white ;
+}
+
+#follow{
+    color: rgb(0, 255, 255);
+    background-color: aliceblue;
+}
