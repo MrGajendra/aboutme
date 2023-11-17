@@ -52,8 +52,8 @@ html,body{
 }
 
 #follow{
-    color: rgb(0, 255, 255);
-    background-color: aliceblue;
+    color: rgb(5, 4, 0);
+    background-color: rgb(247, 247, 247);
 }
 
 #slhead{
@@ -66,3 +66,11 @@ html,body{
     height: 25px;
     width: 110px;
 }
+
+.project-button{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    height: 25px;
+    width: 110px;
+}
+
