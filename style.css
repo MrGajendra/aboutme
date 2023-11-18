@@ -4,7 +4,7 @@
     padding-right: 4px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     box-sizing: border-box;
-    background-color: black;
+    /* background-color: black; */
    
 }
 
@@ -72,5 +72,10 @@ html,body{
     color: rgb(0, 0, 0);
     height: 25px;
     width: 110px;
+}
+
+body{
+    background-image: url(pexels-philippe-donn-1169754.jpg);
+    background-size: cover;
 }
 
